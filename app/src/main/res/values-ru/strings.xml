@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Судоку</string>
+    <string name="auxMatrix">Создать заметки</string>
+    <string name="save">Сохранить</string>
+    <string name="resume">Вернуться в игру</string>
+    <string name="newGame">Новая игра</string>
+    <string name="Restart">Перезапуск</string>
+    <string name="Reset">Сброс</string>
+    <string name="options">Настройки</string>
+    <string name="help">Помощ</string>
+    <string name="About">Об игре</string>
+    <string name="Exit">Выход</string>
+    <string name="mainMenu">Главное меню</string>
+    <string name="Menu">Меню</string>
+    <string name="AUX">Заметки</string>
+    <string name="Undo">Отмена</string>
+    <string name="Diff1">Просто</string>
+    <string name="Diff2">Средне</string>
+    <string name="Diff3">Сложно</string>
+    <string name="Difficulty">Сложность</string>
+    <string name="Pen">Руч</string>
+    <string name="Pencil">Кар</string>
+</resources>

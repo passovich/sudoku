@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <item
+        android:id="@+id/m1"
+        android:title="@string/auxMatrix"
+        android:orderInCategory="1"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/m2"
+        android:title="@string/newGame"
+        android:orderInCategory="2"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/m3"
+        android:title="@string/save"
+        android:orderInCategory="3"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/m4"
+        android:title="@string/resume"
+        android:orderInCategory="4"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/m5"
+        android:title="@string/Reset"
+        android:orderInCategory="5"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/m6"
+        android:title="@string/mainMenu"
+        android:orderInCategory="5"
+        app:showAsAction="never"/>
+
+
+</menu>
